@@ -1,0 +1,10 @@
+function setup() {
+  createCanvas(300, 300);
+  background(0);
+  
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,i,10,10);
+  }
+}
