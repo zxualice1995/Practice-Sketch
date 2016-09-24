@@ -1,0 +1,150 @@
+function setup() {
+  createCanvas(300, 300);
+  background(0);
+  
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,10,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,20,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,30,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,40,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,50,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,60,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,70,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,80,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,90,10,10);
+  }
+    for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,100,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,110,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,120,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,130,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,140,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,150,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,160,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,170,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,180,10,10);
+  }
+    for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,190,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,200,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,210,10,10);
+  }
+    for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,220,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,230,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,240,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,250,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,260,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,270,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,280,10,10);
+  }
+  for (var i = 10; i<300;i=i+10){
+    fill(255)
+    ellipseMode(CENTER);
+    ellipse(i,290,10,10);
+  }
+}
