@@ -8,7 +8,7 @@ function setup() {
   for (var b = 20; b < 390; b = b + 20) {
     for (a = 20; a < 390; a = a + 20) {
       fill(h, 100, 100);
-      h = h + 1;
+      h = h + 0.75;
       ellipseMode(CENTER);
       ellipse(a, b, 20, 20);
     }
