@@ -9,8 +9,8 @@ function setup() {
     line(390, 390 - x * 10, 390 - x * 10, 390);
     x = x + 1;
   }
+  noStroke();
   textSize(300);
   text("P", 110, 300);
   fill(0);
-  noStroke();
 }
